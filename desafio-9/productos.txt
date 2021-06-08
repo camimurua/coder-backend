@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "nombre": "Macbook",
+    "precio": "20.30",
+    "thumbnail": "link"
+  }
+]

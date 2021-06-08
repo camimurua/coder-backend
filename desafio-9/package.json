@@ -1,5 +1,5 @@
 {
-  "nombre": "desafio-coder",
+  "nombre": "desafio-9",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,8 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
-    "moment": "^2.29.1",
-    "nodemon": "^2.0.7"
+    "express": "^4.17.1"
   }
 }

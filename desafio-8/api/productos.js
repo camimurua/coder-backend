@@ -25,7 +25,7 @@ class Productos {
      let item={
        id:id,
        title:objeto.title,
-       price:objeto.price,
+       precio:objeto.precio,
        thumbnail:objeto.thumbnail
      }
      productos.push(item);
