@@ -1,0 +1,252 @@
+Statistical profiling result from profilerLog.log, (13408 ticks, 0 unaccounted, 0 excluded).
+
+ [Shared libraries]:
+   ticks  total  nonlib   name
+  12830   95.7%          C:\WINDOWS\SYSTEM32\ntdll.dll
+    565    4.2%          C:\PROGRAM FILES\NODEJS\node.exe
+      1    0.0%          C:\WINDOWS\system32\mswsock.dll
+      1    0.0%          C:\WINDOWS\System32\KERNEL32.DLL
+
+ [JavaScript]:
+   ticks  total  nonlib   name
+      6    0.0%   54.5%  LazyCompile: *resolve path.js:130:10
+      1    0.0%    9.1%  RegExp: ; *([!#$%&'*+.^_`|~0-9A-Za-z-]+) *= *("(?:[\u000b\u0020\u0021\u0023-\u005b\u005d-\u007e\u0080-\u00ff]|\\[\u000b\u0020-\u00ff])*"|[!#$%&'*+.^_`|~0-9A-Za-z-]+) *
+      1    0.0%    9.1%  LazyCompile: *stat internal/modules/cjs/loader.js:132:14
+      1    0.0%    9.1%  LazyCompile: *normalizeString path.js:52:25
+      1    0.0%    9.1%  LazyCompile: *next C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\router\index.js:176:16
+      1    0.0%    9.1%  LazyCompile: *Module._nodeModulePaths internal/modules/cjs/loader.js:533:37
+
+ [C++]:
+   ticks  total  nonlib   name
+
+ [Summary]:
+   ticks  total  nonlib   name
+     11    0.1%  100.0%  JavaScript
+      0    0.0%    0.0%  C++
+     99    0.7%  900.0%  GC
+  13397   99.9%          Shared libraries
+
+ [C++ entry points]:
+   ticks    cpp   total   name
+
+ [Bottom up (heavy) profile]:
+  Note: percentage shows a share of a particular caller in the total
+  amount of its parent calls.
+  Callers occupying less than 1.0% are not shown.
+
+   ticks parent  name
+  12830   95.7%  C:\WINDOWS\SYSTEM32\ntdll.dll
+    174    1.4%    C:\PROGRAM FILES\NODEJS\node.exe
+     29   16.7%      C:\PROGRAM FILES\NODEJS\node.exe
+     14   48.3%        LazyCompile: ~append C:\Users\Phoenix\Documents\GitHub\node_modules\vary\index.js:38:17
+     14  100.0%          LazyCompile: ~vary C:\Users\Phoenix\Documents\GitHub\node_modules\vary\index.js:133:15
+     14  100.0%            LazyCompile: ~onResponseHeaders C:\Users\Phoenix\Documents\GitHub\node_modules\compression\index.js:140:47
+      7   24.1%        LazyCompile: ~compressible C:\Users\Phoenix\Documents\GitHub\node_modules\compressible\index.js:41:23
+      7  100.0%          LazyCompile: ~shouldCompress C:\Users\Phoenix\Documents\GitHub\node_modules\compression\index.js:254:25
+      7  100.0%            LazyCompile: ~onResponseHeaders C:\Users\Phoenix\Documents\GitHub\node_modules\compression\index.js:140:47
+      1    3.4%        LazyCompile: ~stat internal/modules/cjs/loader.js:132:14
+      1  100.0%          LazyCompile: ~Module._findPath internal/modules/cjs/loader.js:444:28
+      1  100.0%            LazyCompile: ~Module._resolveFilename internal/modules/cjs/loader.js:796:35
+      1    3.4%        LazyCompile: ~splitRoot fs.js:1609:33
+      1  100.0%          LazyCompile: ~realpathSync fs.js:1650:22
+      1  100.0%            LazyCompile: ~toRealPath internal/modules/cjs/loader.js:343:20
+      1    3.4%        LazyCompile: ~isIPv6 internal/net.js:34:16
+      1  100.0%          LazyCompile: ~isIP internal/net.js:38:14
+      1  100.0%            LazyCompile: ~lookup dns.js:93:16
+      1    3.4%        LazyCompile: ~hash C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:596:14
+      1  100.0%          LazyCompile: ~generate C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:363:22
+      1  100.0%            LazyCompile: ~session C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:179:26
+      1    3.4%        LazyCompile: ~getOwn internal/bootstrap/loaders.js:153:16
+      1  100.0%          LazyCompile: ~syncExports internal/bootstrap/loaders.js:258:14
+      1  100.0%            LazyCompile: ~<anonymous> internal/bootstrap/loaders.js:244:15
+      1    3.4%        LazyCompile: ~Faker C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\faker\lib\index.js:24:16
+      1  100.0%          Eval: ~<anonymous> C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\faker\index.js:1:1
+      1  100.0%            LazyCompile: ~Module._compile internal/modules/cjs/loader.js:1017:37
+      1    3.4%        Eval: ~<anonymous> C:\Users\Phoenix\Documents\GitHub\node_modules\mquery\node_modules\debug\src\node.js:1:1
+      1  100.0%          LazyCompile: ~Module._compile internal/modules/cjs/loader.js:1017:37
+      1  100.0%            LazyCompile: ~Module._extensions..js internal/modules/cjs/loader.js:1072:37
+      1    3.4%        Eval: ~<anonymous> C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\ws\lib\websocket.js:1:1
+      1  100.0%          LazyCompile: ~Module._compile internal/modules/cjs/loader.js:1017:37
+      1  100.0%            LazyCompile: ~Module._extensions..js internal/modules/cjs/loader.js:1072:37
+      9    5.2%      LazyCompile: ~<anonymous> C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\server.js:115:22
+      6   66.7%        LazyCompile: ~handle C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\router\layer.js:86:49
+      6  100.0%          LazyCompile: ~next C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\router\route.js:114:16
+      6  100.0%            LazyCompile: ~dispatch C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\router\route.js:98:45
+      3   33.3%        LazyCompile: *handle C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\router\layer.js:86:49
+      3  100.0%          LazyCompile: ~next C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\router\route.js:114:16
+      3  100.0%            LazyCompile: ~dispatch C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\router\route.js:98:45
+      7    4.0%      LazyCompile: ~generateSessionId C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:518:27
+      7  100.0%        LazyCompile: ~store.generate C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:158:28
+      7  100.0%          LazyCompile: ~generate C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:363:22
+      7  100.0%            LazyCompile: ~session C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:179:26
+      6    3.4%      LazyCompile: ~parseurl C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\parseurl\index.js:35:19
+      6  100.0%        LazyCompile: ~getPathname C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\router\index.js:526:21
+      6  100.0%          LazyCompile: ~next C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\router\index.js:176:16
+      6  100.0%            LazyCompile: ~handle C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\router\index.js:136:31
+      6    3.4%      LazyCompile: ~parsersCb _http_common.js:168:65
+      6  100.0%        LazyCompile: ~alloc internal/freelist.js:15:8
+      6  100.0%          LazyCompile: ~connectionListenerInternal _http_server.js:418:36
+      6  100.0%            LazyCompile: ~defaultTriggerAsyncIdScope internal/async_hooks.js:421:36
+      6    3.4%      LazyCompile: *hidden internal/errors.js:286:25
+      6  100.0%        LazyCompile: ~setHeader _http_outgoing.js:556:57
+      6  100.0%          LazyCompile: ~expressInit C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\middleware\init.js:29:30
+      6  100.0%            LazyCompile: ~handle C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\router\layer.js:86:49
+      5    2.9%      LazyCompile: ~uidSync C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\uid-safe\index.js:75:18
+      5  100.0%        LazyCompile: ~generateSessionId C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:518:27
+      5  100.0%          LazyCompile: ~store.generate C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:158:28
+      5  100.0%            LazyCompile: ~generate C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:363:22
+      5    2.9%      LazyCompile: ~onParserExecuteCommon _http_server.js:658:31
+      5  100.0%        LazyCompile: ~onParserExecute _http_server.js:601:25
+      5    2.9%      LazyCompile: ~ReadableState internal/streams/readable.js:90:23
+      5  100.0%        LazyCompile: ~Readable internal/streams/readable.js:187:18
+      5  100.0%          LazyCompile: ~IncomingMessage _http_incoming.js:42:25
+      5  100.0%            LazyCompile: ~parserOnHeadersComplete _http_common.js:75:33
+      5    2.9%      LazyCompile: *hash C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:596:14
+      5  100.0%        LazyCompile: *session C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:179:26
+      5  100.0%          LazyCompile: *handle C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\router\layer.js:86:49
+      5  100.0%            LazyCompile: *next C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\router\index.js:176:16
+      4    2.3%      LazyCompile: ~handle C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\application.js:158:29
+      4  100.0%        LazyCompile: ~app C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\express.js:38:21
+      4  100.0%          LazyCompile: ~<anonymous> C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\engine.io\lib\server.js:497:26
+      4  100.0%            LazyCompile: ~<anonymous> C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\socket.io\dist\index.js:211:27
+      4    2.3%      LazyCompile: ~compression C:\Users\Phoenix\Documents\GitHub\node_modules\compression\index.js:59:31
+      4  100.0%        LazyCompile: *handle C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\router\layer.js:86:49
+      4  100.0%          LazyCompile: *next C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\router\index.js:176:16
+      4  100.0%            LazyCompile: ~expressInit C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\middleware\init.js:29:30
+      2    1.1%      LazyCompile: ~randomBytes internal/crypto/random.js:52:21
+      2  100.0%        LazyCompile: ~randomBytesSync C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\random-bytes\index.js:72:25
+      2  100.0%          LazyCompile: ~uidSync C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\uid-safe\index.js:75:18
+      2  100.0%            LazyCompile: ~generateSessionId C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:518:27
+      2    1.1%      LazyCompile: ~hash C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:596:14
+      1   50.0%        LazyCompile: ~isModified C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:425:24
+      1  100.0%          LazyCompile: ~shouldSave C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:440:24
+      1  100.0%            LazyCompile: ~end C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:250:27
+      1   50.0%        LazyCompile: ~generate C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:363:22
+      1  100.0%          LazyCompile: ~session C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:179:26
+      1  100.0%            LazyCompile: ~handle C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\router\layer.js:86:49
+      2    1.1%      Eval: ~<anonymous> C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\depd\lib\compat\index.js:1:1
+      2  100.0%        LazyCompile: ~Module._compile internal/modules/cjs/loader.js:1017:37
+      2  100.0%          LazyCompile: ~Module._extensions..js internal/modules/cjs/loader.js:1072:37
+      2  100.0%            LazyCompile: ~Module.load internal/modules/cjs/loader.js:916:33
+
+    565    4.2%  C:\PROGRAM FILES\NODEJS\node.exe
+    427   75.6%    C:\PROGRAM FILES\NODEJS\node.exe
+    185   43.3%      LazyCompile: ~wrapSafe internal/modules/cjs/loader.js:964:18
+    180   97.3%        LazyCompile: ~Module._compile internal/modules/cjs/loader.js:1017:37
+    180  100.0%          LazyCompile: ~Module._extensions..js internal/modules/cjs/loader.js:1072:37
+    113   62.8%            LazyCompile: ~Module.load internal/modules/cjs/loader.js:916:33
+     67   37.2%            LazyCompile: *Module._load internal/modules/cjs/loader.js:704:24
+      5    2.7%        LazyCompile: *Module._compile internal/modules/cjs/loader.js:1017:37
+      5  100.0%          LazyCompile: ~Module._extensions..js internal/modules/cjs/loader.js:1072:37
+      5  100.0%            LazyCompile: *Module._load internal/modules/cjs/loader.js:704:24
+     38    8.9%      LazyCompile: ~realpathSync fs.js:1650:22
+     24   63.2%        LazyCompile: ~toRealPath internal/modules/cjs/loader.js:343:20
+     22   91.7%          LazyCompile: ~tryFile internal/modules/cjs/loader.js:334:17
+     20   90.9%            LazyCompile: ~tryExtensions internal/modules/cjs/loader.js:350:23
+      2    9.1%            LazyCompile: ~tryPackage internal/modules/cjs/loader.js:288:20
+      1    4.2%          LazyCompile: ~Module._findPath internal/modules/cjs/loader.js:444:28
+      1  100.0%            LazyCompile: ~Module._resolveFilename internal/modules/cjs/loader.js:796:35
+      1    4.2%          LazyCompile: *Module._findPath internal/modules/cjs/loader.js:444:28
+      1  100.0%            LazyCompile: ~Module._resolveFilename internal/modules/cjs/loader.js:796:35
+     14   36.8%        LazyCompile: *tryExtensions internal/modules/cjs/loader.js:350:23
+      9   64.3%          LazyCompile: *Module._findPath internal/modules/cjs/loader.js:444:28
+      9  100.0%            LazyCompile: ~Module._resolveFilename internal/modules/cjs/loader.js:796:35
+      4   28.6%          LazyCompile: ~tryPackage internal/modules/cjs/loader.js:288:20
+      2   50.0%            LazyCompile: ~Module._findPath internal/modules/cjs/loader.js:444:28
+      2   50.0%            LazyCompile: *Module._findPath internal/modules/cjs/loader.js:444:28
+      1    7.1%          LazyCompile: ~Module._findPath internal/modules/cjs/loader.js:444:28
+      1  100.0%            LazyCompile: ~Module._resolveFilename internal/modules/cjs/loader.js:796:35
+     24    5.6%      LazyCompile: ~stat internal/modules/cjs/loader.js:132:14
+     13   54.2%        LazyCompile: ~Module._findPath internal/modules/cjs/loader.js:444:28
+     13  100.0%          LazyCompile: ~Module._resolveFilename internal/modules/cjs/loader.js:796:35
+     13  100.0%            LazyCompile: ~Module._load internal/modules/cjs/loader.js:704:24
+     11   45.8%        LazyCompile: ~tryFile internal/modules/cjs/loader.js:334:17
+      9   81.8%          LazyCompile: ~tryExtensions internal/modules/cjs/loader.js:350:23
+      9  100.0%            LazyCompile: ~Module._findPath internal/modules/cjs/loader.js:444:28
+      2   18.2%          LazyCompile: ~tryPackage internal/modules/cjs/loader.js:288:20
+      2  100.0%            LazyCompile: ~Module._findPath internal/modules/cjs/loader.js:444:28
+     15    3.5%      LazyCompile: ~openSync fs.js:467:18
+     15  100.0%        LazyCompile: ~readFileSync fs.js:374:22
+     14   93.3%          LazyCompile: ~Module._extensions..js internal/modules/cjs/loader.js:1072:37
+     10   71.4%            LazyCompile: ~Module.load internal/modules/cjs/loader.js:916:33
+      4   28.6%            LazyCompile: *Module._load internal/modules/cjs/loader.js:704:24
+      1    6.7%          Eval: ~<anonymous> C:\Users\Phoenix\Documents\GitHub\node_modules\saslprep\lib\memory-code-points.js:1:1
+      1  100.0%            LazyCompile: ~Module._compile internal/modules/cjs/loader.js:1017:37
+     14    3.3%      LazyCompile: ~writevGeneric internal/stream_base_commons.js:118:23
+     14  100.0%        LazyCompile: ~Socket._writeGeneric net.js:759:42
+     14  100.0%          LazyCompile: ~Socket._writev net.js:791:36
+     14  100.0%            LazyCompile: ~doWrite internal/streams/writable.js:367:17
+     10    2.3%      LazyCompile: ~compileForInternalLoader internal/bootstrap/loaders.js:270:27
+     10  100.0%        LazyCompile: ~nativeModuleRequire internal/bootstrap/loaders.js:303:29
+      2   20.0%          Eval: ~<anonymous> stream.js:1:1
+      2  100.0%            LazyCompile: ~compileForInternalLoader internal/bootstrap/loaders.js:270:27
+      1   10.0%          Eval: ~<anonymous> timers.js:1:1
+      1  100.0%            LazyCompile: ~compileForInternalLoader internal/bootstrap/loaders.js:270:27
+      1   10.0%          Eval: ~<anonymous> internal/modules/esm/get_source.js:1:1
+      1  100.0%            LazyCompile: ~compileForInternalLoader internal/bootstrap/loaders.js:270:27
+      1   10.0%          Eval: ~<anonymous> internal/bootstrap/node.js:1:1
+      1   10.0%          Eval: ~<anonymous> fs.js:1:1
+      1  100.0%            LazyCompile: ~compileForInternalLoader internal/bootstrap/loaders.js:270:27
+      1   10.0%          Eval: ~<anonymous> crypto.js:1:1
+      1  100.0%            LazyCompile: ~compileForInternalLoader internal/bootstrap/loaders.js:270:27
+      1   10.0%          Eval: ~<anonymous> cluster.js:1:1
+      1  100.0%            LazyCompile: ~compileForInternalLoader internal/bootstrap/loaders.js:270:27
+      1   10.0%          Eval: ~<anonymous> assert.js:1:1
+      1  100.0%            LazyCompile: ~compileForInternalLoader internal/bootstrap/loaders.js:270:27
+      1   10.0%          Eval: ~<anonymous> _http_client.js:1:1
+      1  100.0%            LazyCompile: ~compileForInternalLoader internal/bootstrap/loaders.js:270:27
+      9    2.1%      LazyCompile: ~readSync fs.js:555:18
+      7   77.8%        LazyCompile: ~tryReadSync fs.js:362:21
+      7  100.0%          LazyCompile: ~readFileSync fs.js:374:22
+      7  100.0%            LazyCompile: ~Module._extensions..js internal/modules/cjs/loader.js:1072:37
+      2   22.2%        LazyCompile: *readFileSync fs.js:374:22
+      2  100.0%          LazyCompile: ~Module._extensions..js internal/modules/cjs/loader.js:1072:37
+      2  100.0%            LazyCompile: *Module._load internal/modules/cjs/loader.js:704:24
+      7    1.6%      C:\PROGRAM FILES\NODEJS\node.exe
+      2   28.6%        LazyCompile: ~realpathSync fs.js:1650:22
+      2  100.0%          LazyCompile: *tryExtensions internal/modules/cjs/loader.js:350:23
+      2  100.0%            LazyCompile: *Module._findPath internal/modules/cjs/loader.js:444:28
+      2   28.6%        LazyCompile: ~readPackage internal/modules/cjs/loader.js:240:21
+      2  100.0%          LazyCompile: ~readPackageScope internal/modules/cjs/loader.js:271:26
+      1   50.0%            LazyCompile: ~trySelf internal/modules/cjs/loader.js:391:17
+      1   50.0%            LazyCompile: ~Module._extensions..js internal/modules/cjs/loader.js:1072:37
+      2   28.6%        LazyCompile: ~deprecate internal/util.js:65:19
+      1   50.0%          Eval: ~<anonymous> tls.js:1:1
+      1  100.0%            LazyCompile: ~compileForInternalLoader internal/bootstrap/loaders.js:270:27
+      1   50.0%          Eval: ~<anonymous> C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\query.js:1:1
+      1  100.0%            LazyCompile: ~Module._compile internal/modules/cjs/loader.js:1017:37
+      1   14.3%        LazyCompile: ~splitRoot fs.js:1609:33
+      1  100.0%          LazyCompile: ~realpathSync fs.js:1650:22
+      1  100.0%            LazyCompile: *tryExtensions internal/modules/cjs/loader.js:350:23
+      6    1.4%      LazyCompile: ~hash C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:596:14
+      3   50.0%        LazyCompile: *session C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:179:26
+      3  100.0%          LazyCompile: *handle C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\router\layer.js:86:49
+      3  100.0%            LazyCompile: *next C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\router\index.js:176:16
+      2   33.3%        LazyCompile: ~generate C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:363:22
+      2  100.0%          LazyCompile: ~session C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:179:26
+      2  100.0%            LazyCompile: ~handle C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express\lib\router\layer.js:86:49
+      1   16.7%        LazyCompile: ~isModified C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:425:24
+      1  100.0%          LazyCompile: ~shouldSetCookie C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:464:29
+      1  100.0%            LazyCompile: ~<anonymous> C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:220:28
+      5    1.2%      LazyCompile: ~read internal/modules/package_json_reader.js:16:14
+      3   60.0%        LazyCompile: ~readPackage internal/modules/cjs/loader.js:240:21
+      2   66.7%          LazyCompile: ~resolveExports internal/modules/cjs/loader.js:422:24
+      2  100.0%            LazyCompile: ~Module._findPath internal/modules/cjs/loader.js:444:28
+      1   33.3%          LazyCompile: ~tryPackage internal/modules/cjs/loader.js:288:20
+      1  100.0%            LazyCompile: ~Module._findPath internal/modules/cjs/loader.js:444:28
+      2   40.0%        LazyCompile: *readPackage internal/modules/cjs/loader.js:240:21
+      2  100.0%          LazyCompile: ~tryPackage internal/modules/cjs/loader.js:288:20
+      1   50.0%            LazyCompile: ~Module._findPath internal/modules/cjs/loader.js:444:28
+      1   50.0%            LazyCompile: *Module._findPath internal/modules/cjs/loader.js:444:28
+      5    1.2%      LazyCompile: ~randomBytes internal/crypto/random.js:52:21
+      5  100.0%        LazyCompile: ~randomBytesSync C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\random-bytes\index.js:72:25
+      5  100.0%          LazyCompile: ~uidSync C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\uid-safe\index.js:75:18
+      5  100.0%            LazyCompile: ~generateSessionId C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\express-session\index.js:518:27
+      5    1.2%      LazyCompile: ~closeSync fs.js:434:19
+      3   60.0%        LazyCompile: ~readFileSync fs.js:374:22
+      3  100.0%          LazyCompile: ~Module._extensions..js internal/modules/cjs/loader.js:1072:37
+      3  100.0%            LazyCompile: ~Module.load internal/modules/cjs/loader.js:916:33
+      2   40.0%        LazyCompile: ~closeSync C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase32\Entregable\node_modules\graceful-fs\graceful-fs.js:72:24
+      2  100.0%          LazyCompile: ~readFileSync fs.js:374:22
+      2  100.0%            LazyCompile: ~Module._extensions..js internal/modules/cjs/loader.js:1072:37
+
