@@ -1,0 +1,1604 @@
+[2021-08-26T22:56:14.461] [ERROR] error - error en el servidor: Error: bind EADDRINUSE null:8081
+    at listenOnMasterHandle (net.js:1385:18)
+    at shared (internal/cluster/child.js:132:3)
+    at Worker.<anonymous> (internal/cluster/child.js:103:7)
+    at process.onInternalMessage (internal/cluster/utils.js:48:5)
+    at process.emit (events.js:327:22)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8081
+}
+[2021-08-26T22:56:14.520] [ERROR] error - error en el servidor: Error: bind EADDRINUSE null:8081
+    at listenOnMasterHandle (net.js:1385:18)
+    at shared (internal/cluster/child.js:132:3)
+    at Worker.<anonymous> (internal/cluster/child.js:103:7)
+    at process.onInternalMessage (internal/cluster/utils.js:48:5)
+    at process.emit (events.js:327:22)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8081
+}
+[2021-08-26T22:56:14.472] [ERROR] error - error en el servidor: Error: bind EADDRINUSE null:8081
+    at listenOnMasterHandle (net.js:1385:18)
+    at shared (internal/cluster/child.js:132:3)
+    at Worker.<anonymous> (internal/cluster/child.js:103:7)
+    at process.onInternalMessage (internal/cluster/utils.js:48:5)
+    at process.emit (events.js:327:22)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8081
+}
+[2021-08-26T22:56:14.629] [ERROR] error - error en el servidor: Error: bind EADDRINUSE null:8081
+    at listenOnMasterHandle (net.js:1385:18)
+    at shared (internal/cluster/child.js:132:3)
+    at Worker.<anonymous> (internal/cluster/child.js:103:7)
+    at process.onInternalMessage (internal/cluster/utils.js:48:5)
+    at process.emit (events.js:327:22)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8081
+}
+[2021-08-26T22:56:14.653] [ERROR] error - error en el servidor: Error: bind EADDRINUSE null:8081
+    at listenOnMasterHandle (net.js:1385:18)
+    at shared (internal/cluster/child.js:132:3)
+    at Worker.<anonymous> (internal/cluster/child.js:103:7)
+    at process.onInternalMessage (internal/cluster/utils.js:48:5)
+    at process.emit (events.js:327:22)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8081
+}
+[2021-08-26T22:56:14.680] [ERROR] error - error en el servidor: Error: bind EADDRINUSE null:8081
+    at listenOnMasterHandle (net.js:1385:18)
+    at shared (internal/cluster/child.js:132:3)
+    at Worker.<anonymous> (internal/cluster/child.js:103:7)
+    at process.onInternalMessage (internal/cluster/utils.js:48:5)
+    at process.emit (events.js:327:22)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8081
+}
+[2021-08-26T22:59:23.646] [ERROR] error - error en el servidor: Error: bind EADDRINUSE null:8081
+    at listenOnMasterHandle (net.js:1385:18)
+    at shared (internal/cluster/child.js:132:3)
+    at Worker.<anonymous> (internal/cluster/child.js:103:7)
+    at process.onInternalMessage (internal/cluster/utils.js:48:5)
+    at process.emit (events.js:327:22)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8081
+}
+[2021-08-26T22:59:23.646] [ERROR] error - error en el servidor: Error: bind EADDRINUSE null:8081
+    at listenOnMasterHandle (net.js:1385:18)
+    at shared (internal/cluster/child.js:132:3)
+    at Worker.<anonymous> (internal/cluster/child.js:103:7)
+    at process.onInternalMessage (internal/cluster/utils.js:48:5)
+    at process.emit (events.js:327:22)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8081
+}
+[2021-08-26T22:59:23.766] [ERROR] error - error en el servidor: Error: bind EADDRINUSE null:8081
+    at listenOnMasterHandle (net.js:1385:18)
+    at shared (internal/cluster/child.js:132:3)
+    at Worker.<anonymous> (internal/cluster/child.js:103:7)
+    at process.onInternalMessage (internal/cluster/utils.js:48:5)
+    at process.emit (events.js:327:22)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8081
+}
+[2021-08-26T22:59:23.768] [ERROR] error - error en el servidor: Error: bind EADDRINUSE null:8081
+    at listenOnMasterHandle (net.js:1385:18)
+    at shared (internal/cluster/child.js:132:3)
+    at Worker.<anonymous> (internal/cluster/child.js:103:7)
+    at process.onInternalMessage (internal/cluster/utils.js:48:5)
+    at process.emit (events.js:327:22)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8081
+}
+[2021-08-26T22:59:23.886] [ERROR] error - error en el servidor: Error: bind EADDRINUSE null:8081
+    at listenOnMasterHandle (net.js:1385:18)
+    at shared (internal/cluster/child.js:132:3)
+    at Worker.<anonymous> (internal/cluster/child.js:103:7)
+    at process.onInternalMessage (internal/cluster/utils.js:48:5)
+    at process.emit (events.js:327:22)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8081
+}
+[2021-08-26T22:59:24.094] [ERROR] error - error en el servidor: Error: bind EADDRINUSE null:8081
+    at listenOnMasterHandle (net.js:1385:18)
+    at shared (internal/cluster/child.js:132:3)
+    at Worker.<anonymous> (internal/cluster/child.js:103:7)
+    at process.onInternalMessage (internal/cluster/utils.js:48:5)
+    at process.emit (events.js:327:22)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8081
+}
+[2021-08-26T23:04:23.117] [ERROR] error - error en el servidor: Error: bind EADDRINUSE null:8081
+    at listenOnMasterHandle (net.js:1385:18)
+    at shared (internal/cluster/child.js:132:3)
+    at Worker.<anonymous> (internal/cluster/child.js:103:7)
+    at process.onInternalMessage (internal/cluster/utils.js:48:5)
+    at process.emit (events.js:327:22)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8081
+}
+[2021-08-26T23:04:23.127] [ERROR] error - error en el servidor: Error: bind EADDRINUSE null:8081
+    at listenOnMasterHandle (net.js:1385:18)
+    at shared (internal/cluster/child.js:132:3)
+    at Worker.<anonymous> (internal/cluster/child.js:103:7)
+    at process.onInternalMessage (internal/cluster/utils.js:48:5)
+    at process.emit (events.js:327:22)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8081
+}
+[2021-08-26T23:04:23.162] [ERROR] error - error en el servidor: Error: bind EADDRINUSE null:8081
+    at listenOnMasterHandle (net.js:1385:18)
+    at shared (internal/cluster/child.js:132:3)
+    at Worker.<anonymous> (internal/cluster/child.js:103:7)
+    at process.onInternalMessage (internal/cluster/utils.js:48:5)
+    at process.emit (events.js:327:22)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8081
+}
+[2021-08-26T23:04:23.199] [ERROR] error - error en el servidor: Error: bind EADDRINUSE null:8081
+    at listenOnMasterHandle (net.js:1385:18)
+    at shared (internal/cluster/child.js:132:3)
+    at Worker.<anonymous> (internal/cluster/child.js:103:7)
+    at process.onInternalMessage (internal/cluster/utils.js:48:5)
+    at process.emit (events.js:327:22)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8081
+}
+[2021-08-26T23:04:23.352] [ERROR] error - error en el servidor: Error: bind EADDRINUSE null:8081
+    at listenOnMasterHandle (net.js:1385:18)
+    at shared (internal/cluster/child.js:132:3)
+    at Worker.<anonymous> (internal/cluster/child.js:103:7)
+    at process.onInternalMessage (internal/cluster/utils.js:48:5)
+    at process.emit (events.js:327:22)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8081
+}
+[2021-08-26T23:04:23.413] [ERROR] error - error en el servidor: Error: bind EADDRINUSE null:8081
+    at listenOnMasterHandle (net.js:1385:18)
+    at shared (internal/cluster/child.js:132:3)
+    at Worker.<anonymous> (internal/cluster/child.js:103:7)
+    at process.onInternalMessage (internal/cluster/utils.js:48:5)
+    at process.emit (events.js:327:22)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8081
+}
+[2021-09-21T17:15:15.434] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:15:38.370] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:26:45.648] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:33:45.300] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:34:44.095] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:35:48.833] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:35:57.109] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:37:43.469] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:37:49.015] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:41:20.349] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:41:27.980] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:41:43.695] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:41:48.380] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:44:24.555] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:44:38.394] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:44:52.838] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:45:23.933] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:46:26.755] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:46:56.722] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:47:35.600] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:48:27.943] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:48:44.841] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:49:13.334] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:52:19.533] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:54:16.282] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:54:22.762] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T17:59:51.966] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T18:02:49.122] [ERROR] error - Error: productos validation failed: thumbnail: Path `thumbnail` is required., price: Path `price` is required., title: Path `title` is required.
+    at ValidationError.inspect (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\error\validation.js:47:26)
+    at internal/per_context/primordials.js:23:32
+    at formatValue (internal/util/inspect.js:775:19)
+    at inspect (internal/util/inspect.js:337:10)
+    at formatWithOptionsInternal (internal/util/inspect.js:2008:40)
+    at Object.format (internal/util/inspect.js:1882:10)
+    at basicLayout (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\layouts.js:62:57)
+    at app (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\appenders\file.js:64:23)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:42:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:41:21)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:26
+    at Array.forEach (<anonymous>)
+    at sendToListeners (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:13)
+    at Object.send (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:89:7)
+    at Logger._log (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\logger.js:90:16) {
+  errors: {
+    thumbnail: ValidatorError: Path `thumbnail` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'thumbnail',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    price: ValidatorError: Path `price` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaNumber.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'price',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    title: ValidatorError: Path `title` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'title',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'productos validation failed'
+}
+[2021-09-21T18:04:49.243] [ERROR] error - Error: productos validation failed: thumbnail: Path `thumbnail` is required., price: Path `price` is required., title: Path `title` is required.
+    at ValidationError.inspect (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\error\validation.js:47:26)
+    at internal/per_context/primordials.js:23:32
+    at formatValue (internal/util/inspect.js:775:19)
+    at inspect (internal/util/inspect.js:337:10)
+    at formatWithOptionsInternal (internal/util/inspect.js:2008:40)
+    at Object.format (internal/util/inspect.js:1882:10)
+    at basicLayout (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\layouts.js:62:57)
+    at app (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\appenders\file.js:64:23)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:42:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:41:21)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:26
+    at Array.forEach (<anonymous>)
+    at sendToListeners (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:13)
+    at Object.send (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:89:7)
+    at Logger._log (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\logger.js:90:16) {
+  errors: {
+    thumbnail: ValidatorError: Path `thumbnail` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'thumbnail',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    price: ValidatorError: Path `price` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaNumber.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'price',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    title: ValidatorError: Path `title` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'title',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'productos validation failed'
+}
+[2021-09-21T18:05:35.134] [ERROR] error - Error: productos validation failed: thumbnail: Path `thumbnail` is required., price: Path `price` is required., title: Path `title` is required.
+    at ValidationError.inspect (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\error\validation.js:47:26)
+    at internal/per_context/primordials.js:23:32
+    at formatValue (internal/util/inspect.js:775:19)
+    at inspect (internal/util/inspect.js:337:10)
+    at formatWithOptionsInternal (internal/util/inspect.js:2008:40)
+    at Object.format (internal/util/inspect.js:1882:10)
+    at basicLayout (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\layouts.js:62:57)
+    at app (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\appenders\file.js:64:23)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:42:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:41:21)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:26
+    at Array.forEach (<anonymous>)
+    at sendToListeners (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:13)
+    at Object.send (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:89:7)
+    at Logger._log (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\logger.js:90:16) {
+  errors: {
+    thumbnail: ValidatorError: Path `thumbnail` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'thumbnail',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    price: ValidatorError: Path `price` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaNumber.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'price',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    title: ValidatorError: Path `title` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'title',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'productos validation failed'
+}
+[2021-09-21T18:05:43.350] [ERROR] error - Error: productos validation failed: thumbnail: Path `thumbnail` is required., price: Path `price` is required., title: Path `title` is required.
+    at ValidationError.inspect (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\error\validation.js:47:26)
+    at internal/per_context/primordials.js:23:32
+    at formatValue (internal/util/inspect.js:775:19)
+    at inspect (internal/util/inspect.js:337:10)
+    at formatWithOptionsInternal (internal/util/inspect.js:2008:40)
+    at Object.format (internal/util/inspect.js:1882:10)
+    at basicLayout (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\layouts.js:62:57)
+    at app (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\appenders\file.js:64:23)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:42:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:41:21)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:26
+    at Array.forEach (<anonymous>)
+    at sendToListeners (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:13)
+    at Object.send (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:89:7)
+    at Logger._log (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\logger.js:90:16) {
+  errors: {
+    thumbnail: ValidatorError: Path `thumbnail` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'thumbnail',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    price: ValidatorError: Path `price` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaNumber.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'price',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    title: ValidatorError: Path `title` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'title',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'productos validation failed'
+}
+[2021-09-21T18:06:23.495] [ERROR] error - Error: productos validation failed: thumbnail: Path `thumbnail` is required., price: Path `price` is required., title: Path `title` is required.
+    at ValidationError.inspect (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\error\validation.js:47:26)
+    at internal/per_context/primordials.js:23:32
+    at formatValue (internal/util/inspect.js:775:19)
+    at inspect (internal/util/inspect.js:337:10)
+    at formatWithOptionsInternal (internal/util/inspect.js:2008:40)
+    at Object.format (internal/util/inspect.js:1882:10)
+    at basicLayout (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\layouts.js:62:57)
+    at app (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\appenders\file.js:64:23)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:42:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:41:21)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:26
+    at Array.forEach (<anonymous>)
+    at sendToListeners (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:13)
+    at Object.send (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:89:7)
+    at Logger._log (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\logger.js:90:16) {
+  errors: {
+    thumbnail: ValidatorError: Path `thumbnail` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'thumbnail',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    price: ValidatorError: Path `price` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaNumber.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'price',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    title: ValidatorError: Path `title` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'title',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'productos validation failed'
+}
+[2021-09-21T18:13:34.919] [ERROR] error - Error: productos validation failed: thumbnail: Path `thumbnail` is required., price: Path `price` is required., title: Path `title` is required.
+    at ValidationError.inspect (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\error\validation.js:47:26)
+    at internal/per_context/primordials.js:23:32
+    at formatValue (internal/util/inspect.js:775:19)
+    at inspect (internal/util/inspect.js:337:10)
+    at formatWithOptionsInternal (internal/util/inspect.js:2008:40)
+    at Object.format (internal/util/inspect.js:1882:10)
+    at basicLayout (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\layouts.js:62:57)
+    at app (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\appenders\file.js:64:23)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:42:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:41:21)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:26
+    at Array.forEach (<anonymous>)
+    at sendToListeners (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:13)
+    at Object.send (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:89:7)
+    at Logger._log (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\logger.js:90:16) {
+  errors: {
+    thumbnail: ValidatorError: Path `thumbnail` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'thumbnail',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    price: ValidatorError: Path `price` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaNumber.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'price',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    title: ValidatorError: Path `title` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'title',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'productos validation failed'
+}
+[2021-09-21T18:14:15.662] [ERROR] error - Error: productos validation failed: thumbnail: Path `thumbnail` is required., price: Path `price` is required., title: Path `title` is required.
+    at ValidationError.inspect (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\error\validation.js:47:26)
+    at internal/per_context/primordials.js:23:32
+    at formatValue (internal/util/inspect.js:775:19)
+    at inspect (internal/util/inspect.js:337:10)
+    at formatWithOptionsInternal (internal/util/inspect.js:2008:40)
+    at Object.format (internal/util/inspect.js:1882:10)
+    at basicLayout (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\layouts.js:62:57)
+    at app (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\appenders\file.js:64:23)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:42:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:41:21)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:26
+    at Array.forEach (<anonymous>)
+    at sendToListeners (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:13)
+    at Object.send (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:89:7)
+    at Logger._log (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\logger.js:90:16) {
+  errors: {
+    thumbnail: ValidatorError: Path `thumbnail` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'thumbnail',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    price: ValidatorError: Path `price` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaNumber.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'price',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    title: ValidatorError: Path `title` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'title',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'productos validation failed'
+}
+[2021-09-21T18:19:49.639] [ERROR] error - Error: productos validation failed: thumbnail: Path `thumbnail` is required., price: Path `price` is required., title: Path `title` is required.
+    at ValidationError.inspect (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\error\validation.js:47:26)
+    at internal/per_context/primordials.js:23:32
+    at formatValue (internal/util/inspect.js:775:19)
+    at inspect (internal/util/inspect.js:337:10)
+    at formatWithOptionsInternal (internal/util/inspect.js:2008:40)
+    at Object.format (internal/util/inspect.js:1882:10)
+    at basicLayout (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\layouts.js:62:57)
+    at app (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\appenders\file.js:64:23)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:42:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:41:21)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:26
+    at Array.forEach (<anonymous>)
+    at sendToListeners (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:13)
+    at Object.send (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:89:7)
+    at Logger._log (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\logger.js:90:16) {
+  errors: {
+    thumbnail: ValidatorError: Path `thumbnail` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'thumbnail',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    price: ValidatorError: Path `price` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaNumber.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'price',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    title: ValidatorError: Path `title` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'title',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'productos validation failed'
+}
+[2021-09-21T18:22:29.254] [ERROR] error - Error: productos validation failed: thumbnail: Path `thumbnail` is required., price: Path `price` is required., title: Path `title` is required.
+    at ValidationError.inspect (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\error\validation.js:47:26)
+    at internal/per_context/primordials.js:23:32
+    at formatValue (internal/util/inspect.js:775:19)
+    at inspect (internal/util/inspect.js:337:10)
+    at formatWithOptionsInternal (internal/util/inspect.js:2008:40)
+    at Object.format (internal/util/inspect.js:1882:10)
+    at basicLayout (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\layouts.js:62:57)
+    at app (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\appenders\file.js:64:23)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:42:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:41:21)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:26
+    at Array.forEach (<anonymous>)
+    at sendToListeners (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:13)
+    at Object.send (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:89:7)
+    at Logger._log (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\logger.js:90:16) {
+  errors: {
+    thumbnail: ValidatorError: Path `thumbnail` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'thumbnail',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    price: ValidatorError: Path `price` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaNumber.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'price',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    title: ValidatorError: Path `title` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'title',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'productos validation failed'
+}
+[2021-09-21T18:26:27.878] [ERROR] error - Error: productos validation failed: thumbnail: Path `thumbnail` is required., price: Path `price` is required., title: Path `title` is required.
+    at ValidationError.inspect (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\error\validation.js:47:26)
+    at internal/per_context/primordials.js:23:32
+    at formatValue (internal/util/inspect.js:775:19)
+    at inspect (internal/util/inspect.js:337:10)
+    at formatWithOptionsInternal (internal/util/inspect.js:2008:40)
+    at Object.format (internal/util/inspect.js:1882:10)
+    at basicLayout (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\layouts.js:62:57)
+    at app (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\appenders\file.js:64:23)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:42:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:41:21)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:26
+    at Array.forEach (<anonymous>)
+    at sendToListeners (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:13)
+    at Object.send (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:89:7)
+    at Logger._log (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\logger.js:90:16) {
+  errors: {
+    thumbnail: ValidatorError: Path `thumbnail` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'thumbnail',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    price: ValidatorError: Path `price` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaNumber.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'price',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    title: ValidatorError: Path `title` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'title',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'productos validation failed'
+}
+[2021-09-21T18:27:54.531] [ERROR] error - Error: productos validation failed: thumbnail: Path `thumbnail` is required., price: Path `price` is required., title: Path `title` is required.
+    at ValidationError.inspect (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\error\validation.js:47:26)
+    at internal/per_context/primordials.js:23:32
+    at formatValue (internal/util/inspect.js:775:19)
+    at inspect (internal/util/inspect.js:337:10)
+    at formatWithOptionsInternal (internal/util/inspect.js:2008:40)
+    at Object.format (internal/util/inspect.js:1882:10)
+    at basicLayout (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\layouts.js:62:57)
+    at app (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\appenders\file.js:64:23)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:42:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:41:21)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:26
+    at Array.forEach (<anonymous>)
+    at sendToListeners (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:13)
+    at Object.send (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:89:7)
+    at Logger._log (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\logger.js:90:16) {
+  errors: {
+    thumbnail: ValidatorError: Path `thumbnail` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'thumbnail',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    price: ValidatorError: Path `price` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaNumber.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'price',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    title: ValidatorError: Path `title` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'title',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'productos validation failed'
+}
+[2021-09-21T18:28:57.458] [ERROR] error - Error: productos validation failed: thumbnail: Path `thumbnail` is required., price: Path `price` is required., title: Path `title` is required.
+    at ValidationError.inspect (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\error\validation.js:47:26)
+    at internal/per_context/primordials.js:23:32
+    at formatValue (internal/util/inspect.js:775:19)
+    at inspect (internal/util/inspect.js:337:10)
+    at formatWithOptionsInternal (internal/util/inspect.js:2008:40)
+    at Object.format (internal/util/inspect.js:1882:10)
+    at basicLayout (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\layouts.js:62:57)
+    at app (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\appenders\file.js:64:23)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:42:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\log4js.js:41:21)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:26
+    at Array.forEach (<anonymous>)
+    at sendToListeners (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:23:13)
+    at Object.send (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\clustering.js:89:7)
+    at Logger._log (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\log4js\lib\logger.js:90:16) {
+  errors: {
+    thumbnail: ValidatorError: Path `thumbnail` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'thumbnail',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    price: ValidatorError: Path `price` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaNumber.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'price',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    title: ValidatorError: Path `title` is required.
+        at validate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1270:13)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1253:7
+        at Array.forEach (<anonymous>)
+        at SchemaString.SchemaType.doValidate (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1198:14)
+        at C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\document.js:2542:18
+        at processTicksAndRejections (internal/process/task_queues.js:75:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'title',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'productos validation failed'
+}
+[2021-09-21T18:30:26.412] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:53:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T19:03:48.537] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:53:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T19:20:13.360] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:76:80
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-21T19:26:40.383] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:97:72
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-22T19:34:28.670] [ERROR] error - TypeError: Cannot read property 'title' of undefined
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\routes\productos.js:52:40
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Phoenix\Documents\GitHub\Curso CoderHouse\Curso Backend\Clase39\Entregable\node_modules\express\lib\middleware\init.js:40:5)
+[2021-09-22T19:34:28.684] [ERROR] error - CastError: Cast to ObjectId failed for value "5741c587324f022dd1fb22" (type string) at path "_id" for model "productos"
+    at model.Query.exec (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\query.js:4592:15) {
+  messageFormat: undefined,
+  stringValue: '"5741c587324f022dd1fb22"',
+  kind: 'ObjectId',
+  value: '5741c587324f022dd1fb22',
+  path: '_id',
+  reason: Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+      at new ObjectID (C:\Users\Phoenix\Documents\GitHub\node_modules\bson\lib\bson\objectid.js:59:11)
+      at castObjectId (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schema\objectid.js:245:12)
+      at ObjectId.SchemaType.applySetters (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1123:12)
+      at ObjectId.SchemaType._castForQuery (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1601:15)
+      at ObjectId.SchemaType.castForQuery (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1591:15)
+      at ObjectId.SchemaType.castForQueryWrapper (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1568:20)
+      at cast (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\cast.js:331:32)
+      at model.Query.Query.cast (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\query.js:4937:12)
+      at castQuery (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\query.js:4738:18)
+      at model.Query.Query._findAndModify (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\query.js:3598:23)
+      at model.Query.<anonymous> (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\query.js:3164:8)
+      at model.Query._wrappedThunk [as _findOneAndUpdate] (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+      at C:\Users\Phoenix\Documents\GitHub\node_modules\kareem\index.js:370:33
+      at processTicksAndRejections (internal/process/task_queues.js:75:11),
+  valueType: 'string'
+}
+[2021-09-22T19:34:28.694] [ERROR] error - CastError: Cast to ObjectId failed for value "5741c587324f022dd1fb22" (type string) at path "_id" for model "productos"
+    at model.Query.exec (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  messageFormat: undefined,
+  stringValue: '"5741c587324f022dd1fb22"',
+  kind: 'ObjectId',
+  value: '5741c587324f022dd1fb22',
+  path: '_id',
+  reason: Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+      at new ObjectID (C:\Users\Phoenix\Documents\GitHub\node_modules\bson\lib\bson\objectid.js:59:11)
+      at castObjectId (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at ObjectId.cast (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schema\objectid.js:245:12)
+      at ObjectId.SchemaType.applySetters (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1123:12)
+      at ObjectId.SchemaType._castForQuery (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1601:15)
+      at ObjectId.SchemaType.castForQuery (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1591:15)
+      at ObjectId.SchemaType.castForQueryWrapper (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\schematype.js:1568:20)
+      at cast (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\cast.js:331:32)
+      at model.Query.Query.cast (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\query.js:4937:12)
+      at model.Query.Query._castConditions (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\query.js:1975:10)
+      at model.Query.<anonymous> (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\query.js:3340:8)
+      at model.Query._wrappedThunk [as _findOneAndDelete] (C:\Users\Phoenix\Documents\GitHub\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+      at C:\Users\Phoenix\Documents\GitHub\node_modules\kareem\index.js:370:33
+      at processTicksAndRejections (internal/process/task_queues.js:75:11),
+  valueType: 'string'
+}
